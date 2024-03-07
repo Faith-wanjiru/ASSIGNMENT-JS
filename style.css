@@ -1,0 +1,64 @@
+.flex-container{
+    display:flex;
+}
+
+.flex-container> div {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    font-size:30px;
+}
+.image3{
+    display: grid;
+    grid-template-columns: auto;
+    padding: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.logo{
+    text-align: center;
+    padding: 20px;
+}
+.video{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: end;
+
+}
+.room{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.Tick{
+    width: 20px;
+    height: 30px;
+    padding: 20px;
+}
+.form{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: right;
+    color: antiquewhite;
+    padding: 10px;
+    background-color: blue;
+}
+.Body2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.Quotations{
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Subscribe{
+    color: whitesmoke;
+    border: 50px;
+    background-color: orangered;
+    margin:auto;
+}
+
